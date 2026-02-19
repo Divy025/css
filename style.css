@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -8,4 +9,16 @@
 html body{
     margin: 0%;
     padding: 0%;
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html body{
+    margin: 0%;
+    padding: 0%;
+>>>>>>> 67fa9ad2a5dad7f51d9574b3f5d4d179220a8d28
 }
